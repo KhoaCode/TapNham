@@ -1,0 +1,14 @@
+body {
+   
+}
+
+
+.box {
+  width: 300px;
+  height: 200px;
+  background-color: grey;
+
+  background-image: url('https://www.w3schools.com/css/img_fjords.jpg');
+  background-position: center;
+  background-repeat: no-repeat ;  
+}

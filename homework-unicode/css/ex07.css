@@ -1,0 +1,11 @@
+.box {
+    width: 300px;
+    height: 150px;
+    border: black 4px double;
+
+    outline: 2px solid blue;
+    outline-offset: -10px;
+
+    box-shadow: 5px 5px grey;
+
+}

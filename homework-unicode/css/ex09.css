@@ -1,0 +1,11 @@
+.card {
+  width: 350px;
+  height: 450px;
+  background-image: url(https://picsum.photos/536/354);
+  background-size: cover;
+}
+
+.card  h3 {
+  color: white;
+  text-align: center;
+}
